@@ -1,3 +1,6 @@
+![image](https://github.com/MantizA/Banco-tuBolsillo/assets/73174186/a4b36369-59d5-47d5-b1bc-a0140263fcbb)
+
+
 # Proyecto: banco tuBolsillo
 Este proyecto consiste en la creación de una página web para un banco ficticio llamado "banco tuBolsillo". El objetivo principal de esta aplicación es brindar a los usuarios la posibilidad de realizar operaciones bancarias de manera segura y conveniente.
 
